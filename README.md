@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Github Account for Data Science Specialization
+Github Repository for Data Science Specialization classes
